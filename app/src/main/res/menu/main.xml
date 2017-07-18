@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/feed_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_cast_white_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/members_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_members"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/families_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_families"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/articles_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_chrome_reader_mode_white_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/events_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_event_white_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/classifieds_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_shopping_basket_white_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/toggle_menu"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_view_headline_white_24dp"
+        app:showAsAction="always" />
+
+
+
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/notification_menu"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="NOTIFICATIONS" />
+        <item
+            android:id="@+id/inbox_menu"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="INBOX" />
+        <item
+            android:id="@+id/my_porifle_menu"
+            android:icon="@drawable/ic_mood_black_24dp"
+            android:title="MY PROFILE" />
+        <item
+            android:id="@+id/my_family_menu"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="MY FAMILY" />
+        <item
+            android:id="@+id/news_events"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="NEWS/EVENTS" />
+    </group>
+
+</menu>

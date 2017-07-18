@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="design_navigation_elevation">16dp</dimen>
+    <dimen name="design_navigation_icon_padding">10dp</dimen>
+    <dimen name="design_navigation_icon_size">24dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+    <dimen name="design_navigation_padding_bottom">0dp</dimen>
+    <dimen name="splash_container_padding">10dp</dimen>
+    <dimen name="splash_heading">30sp</dimen>
+    <dimen name="splash_sub_heading">16sp</dimen>
+</resources>
